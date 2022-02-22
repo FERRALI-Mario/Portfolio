@@ -4,8 +4,9 @@
 
 Pour développer mes compétences avec le FrameWork *Django*, j'ai décidé de faire un CV au format numérique (un site web).
 
-J'ai choisi *Django* puisque j'avais besoin d'un espace administrateur et ce FrameWork nous le fourni déjà.
-Ce qui a également fait la différence lors de mon choix est que le Python nous permet de mettre plus rapidement en place une application que du PHP.
+J'ai choisi *Django* puisque j'avais besoin d'un espace administrateur et ce FrameWork nous le fournit déjà.
+Ce qui a également fait la différence lors de mon choix est que le Python nous permet de mettre plus rapidement en place 
+une application que du PHP.
 
 
 ## Mon CV réunit les points suivants :
